@@ -1,2 +1,16 @@
-# sql-studies
-Repository documenting my SQL learning journey with exercises, queries, and mini projects using MySQL.
+# SQL Studies
+
+Repository created to document my SQL learning journey.
+
+Topics covered:
+
+- SELECT
+- WHERE
+- JOINs
+- GROUP BY
+- Aggregations
+- Data analysis queries
+
+Tools used:
+- MySQL
+- MySQL Workbench
